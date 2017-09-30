@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Idade Cachorro</string>
+    <string name="digite_idade">Digite a idade do seu cachorro para ser convertida em anos humanos</string>
+    <string name="botao">Converter Idade</string>
+</resources>
